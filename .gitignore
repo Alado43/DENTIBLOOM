@@ -1,0 +1,13 @@
+.env
+*.env
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+build/
+.dart_tool/
+.flutter-plugins*
+*.keystore
+key.properties
+node_modules/
+tmp/
